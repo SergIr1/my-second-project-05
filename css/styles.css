@@ -565,9 +565,6 @@ img {
 }
 
 .footer-input-subscribe::placeholder {
-    font-size: 12px;
-    line-height: 2;
-    letter-spacing: 0.04em;
     color: #ffffff;
 }
 
@@ -781,9 +778,6 @@ img {
 }
 
 .form-order-comment::placeholder {
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
     color: rgba(46, 47, 66, 0.4);
 }
 
