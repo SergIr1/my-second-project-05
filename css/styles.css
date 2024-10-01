@@ -790,7 +790,6 @@ img {
 .form-order-wraperr-checkbox {
     position: relative;
     margin-bottom: 24px;
-    padding-left: 24px;
 }
 
 .form-order-label-checkbox {
@@ -800,18 +799,15 @@ img {
     color: #8e8f99;
 }
 
-span.form-order-custom-checkbox {
-    display: inline-flex;
-}
-
 .form-order-custom-checkbox {
-
+    display: inline-flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
+    margin-right: 8px;
+    /* position: absolute;
     left: 0;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-50%); */
 
     width: 16px;
     height: 16px;
